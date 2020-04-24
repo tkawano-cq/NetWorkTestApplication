@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- margin -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_login_vertical_margin">24dp</dimen>
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="view_holder_margin">16dp</dimen>
+    <dimen name="activity_create_account_vertical_margin">32dp</dimen>
+    <dimen name="fragment_book_manage_image_view_vertical_margin">64dp</dimen>
+    <dimen name="fragment_book_manage_text_vertical_margin">32dp</dimen>
+
+    <!-- imageSize -->
+    <dimen name="view_holder_book_image_size">100dp</dimen>
+    <dimen name="fragment_book_manage_image_size">120dp</dimen>
+
+
+
+
+
+</resources>
